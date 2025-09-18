@@ -66,12 +66,10 @@ npx playwright test tests/ui/login.spec.ts --headed
 ```
 
 ---
+## ✉️ Author
 
-✉️ Author
-
-Mrunali Katta
-
-✨ Passionate about tech, usability, and quality
-🛠️ Skilled in Full-Stack Development, Software QA Automation, and Data Engineering
-🤖 Hands-on with Machine Learning, Generative AI, and real-world NLP projects
-🔍 Detail-oriented tester who loves breaking things to make them better 💥
+**Mrunali Katta**  
+- 🔧 *Passionate about tech, usability, and quality*  
+- 💻 *Skilled in Full-Stack Development, Software QA Automation, and Data Engineering*  
+- 🤖 *Hands-on with Machine Learning, Generative AI, and real-world NLP projects*  
+- 🧪 *Detail-oriented tester who loves breaking things to make them better*
