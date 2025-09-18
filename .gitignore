@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Playwright test outputs
+test-results/
+playwright-report/
+
+# Environment files
+.env
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
